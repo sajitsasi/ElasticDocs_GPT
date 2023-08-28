@@ -3,3 +3,5 @@
 .config
 venv
 main-notokenlimit.py
+.env*
+.vsco*
